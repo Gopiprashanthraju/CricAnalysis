@@ -11,7 +11,7 @@ Cricket Data Analytics is a comprehensive project designed to analyze cricket da
 - **Data Collection**: Collect cricket data from various reliable sources.
 - **Data Processing**: Clean and preprocess the collected data for accurate analysis.
 - **Visualizations**: Generate insightful visualizations to interpret cricket statistics.
-- **Predictive Analysis**: Implement predictive models to forecast cricket outcomes.
+- **Predictive Analysis**: Implement predictive models to forecast cricket outcomes such as Match score prediction based on current match conditions and wicket prediction.
 - **Team Prediction**: Predicting best team for next matches based on previous data.
 - **Comprehensive Reporting**: Detailed analysis and findings documented in a comprehensive report.
 
@@ -36,5 +36,5 @@ Cricket Data Analytics is a comprehensive project designed to analyze cricket da
    install.packages(c("dplyr", "ggplot2", "caret", "rvest", "tidyr","randomForest","xgboost","zoo"))
    ```
 ## Documentation 
-   For detailed analysis and findings, refer to the [project report](https://github.com/mushtaq2314/Cricket-Data-Analytics/blob/main/Documentation/Cricket_Data_Analytics.pdf "Cricket Data Analytics Report").
+   For detailed analysis and findings, please refer [project report](https://github.com/mushtaq2314/Cricket-Data-Analytics/blob/main/Documentation/Cricket_Data_Analytics.pdf "Cricket Data Analytics Report").
 
